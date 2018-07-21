@@ -6,3 +6,4 @@
 new commit by develop
 new commit by test
 new commit by develop again
+new commit by other friends
